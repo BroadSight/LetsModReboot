@@ -1,12 +1,29 @@
-[21:46:50] [main/ERROR]: Can't find the resource index file: C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}\indexes\{ASSET_INDEX}.json
-[21:46:50] [main/INFO]: Setting user: ForgeDevName
-[21:46:52] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:46:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[21:46:59] [Sound Library Loader/INFO]: Sound engine started
-[21:47:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:47:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:47:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[21:47:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:47:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:47:01] [Sound Library Loader/INFO]: Sound engine started
-[21:52:18] [Client thread/INFO]: Stopping!
+[15:20:03] [main/INFO]: Setting user: Player62
+[15:20:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:20:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[15:20:14] [Sound Library Loader/INFO]: Sound engine started
+[15:20:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:20:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:20:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[15:20:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:20:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:20:19] [Sound Library Loader/INFO]: Sound engine started
+[15:20:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:20:26] [Server thread/INFO]: Generating keypair
+[15:20:27] [Server thread/INFO]: Preparing start region for level 0
+[15:20:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:20:28] [Server thread/INFO]: Player62[local:E:6a7d2a72] logged in with entity id 136 at (657.3951479236913, 4.0, -651.5811085212493)
+[15:20:28] [Server thread/INFO]: Player62 joined the game
+[15:20:33] [Server thread/INFO]: Player62 has just earned the achievement [Taking Inventory]
+[15:20:33] [Client thread/INFO]: [CHAT] Player62 has just earned the achievement [Taking Inventory]
+[15:22:15] [Server thread/INFO]: Saving and pausing game...
+[15:22:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:22:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:22:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:22:16] [Server thread/INFO]: Stopping server
+[15:22:16] [Server thread/INFO]: Saving players
+[15:22:16] [Server thread/INFO]: Saving worlds
+[15:22:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:22:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:22:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:22:30] [Client thread/INFO]: Stopping!
