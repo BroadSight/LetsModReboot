@@ -1,7 +1,9 @@
 package com.minercraftstyle.letsmodreboot;
 
+import com.minercraftstyle.letsmodreboot.configuration.ConfigurationHandler;
 import com.minercraftstyle.letsmodreboot.proxy.IProxy;
 import com.minercraftstyle.letsmodreboot.reference.Reference;
+import com.sun.org.apache.xerces.internal.parsers.XML11Configuration;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -20,7 +22,7 @@ public class LetsModReboot
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler
