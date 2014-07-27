@@ -1,6 +1,7 @@
 package com.minercraftstyle.letsmodreboot;
 
 import com.minercraftstyle.letsmodreboot.handler.ConfigurationHandler;
+import com.minercraftstyle.letsmodreboot.init.ModBlocks;
 import com.minercraftstyle.letsmodreboot.init.ModItems;
 import com.minercraftstyle.letsmodreboot.proxy.IProxy;
 import com.minercraftstyle.letsmodreboot.reference.Reference;
@@ -29,6 +30,7 @@ public class LetsModReboot
         LogHelper.info("Pre Initialization Complete!");
 
         ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler
