@@ -1,4 +1,4 @@
-package com.minercraftstyle.letsmodreboot.utitlity;
+package com.minercraftstyle.letsmodreboot.util;
 
 import com.minercraftstyle.letsmodreboot.reference.Reference;
 import cpw.mods.fml.common.FMLLog;

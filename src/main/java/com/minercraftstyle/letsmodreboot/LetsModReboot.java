@@ -5,7 +5,7 @@ import com.minercraftstyle.letsmodreboot.init.ModBlocks;
 import com.minercraftstyle.letsmodreboot.init.ModItems;
 import com.minercraftstyle.letsmodreboot.proxy.IProxy;
 import com.minercraftstyle.letsmodreboot.reference.Reference;
-import com.minercraftstyle.letsmodreboot.utitlity.LogHelper;
+import com.minercraftstyle.letsmodreboot.util.LogHelper;
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
