@@ -3,6 +3,7 @@ package com.minercraftstyle.letsmodreboot;
 import com.minercraftstyle.letsmodreboot.handler.ConfigurationHandler;
 import com.minercraftstyle.letsmodreboot.init.ModBlocks;
 import com.minercraftstyle.letsmodreboot.init.ModItems;
+import com.minercraftstyle.letsmodreboot.init.Recipes;
 import com.minercraftstyle.letsmodreboot.proxy.IProxy;
 import com.minercraftstyle.letsmodreboot.reference.Reference;
 import com.minercraftstyle.letsmodreboot.util.LogHelper;
@@ -36,6 +37,7 @@ public class LetsModReboot
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
+        Recipes.init();
         LogHelper.info("Initialization Complete!");
     }
 

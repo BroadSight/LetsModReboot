@@ -1,169 +1,47 @@
-[19:56:49] [main/INFO]: Logging in with username & password
-[19:56:59] [main/ERROR]: Can't find the resource index file: C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}\indexes\{ASSET_INDEX}.json
-[19:56:59] [main/INFO]: Setting user: minercraftstyle
-[19:57:01] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:57:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[19:57:10] [Sound Library Loader/INFO]: Sound engine started
-[19:57:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:57:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:57:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[19:57:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:57:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:57:13] [Sound Library Loader/INFO]: Sound engine started
-[19:57:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[19:57:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:21] [Client thread/INFO]: Deleting level New World
-[19:57:21] [Client thread/INFO]: Attempt 1...
-[19:57:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:32] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[19:57:32] [Server thread/INFO]: Generating keypair
-[19:57:32] [Server thread/INFO]: Converting map!
-[19:57:32] [Server thread/INFO]: Scanning folders...
-[19:57:32] [Server thread/INFO]: Total conversion count is 0
-[19:57:34] [Server thread/INFO]: Preparing start region for level 0
-[19:57:34] [Server thread/INFO]: Changing view distance to 12, from 10
-[19:57:36] [Server thread/INFO]: minercraftstyle[local:E:7e15b6f3] logged in with entity id 0 at (333.5, 4.0, 1569.5)
-[19:57:36] [Server thread/INFO]: minercraftstyle joined the game
-[19:57:39] [Server thread/INFO]: Saving and pausing game...
-[19:57:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[19:57:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[19:57:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[19:57:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:45] [Server thread/INFO]: minercraftstyle has just earned the achievement [Taking Inventory]
-[19:57:45] [Client thread/INFO]: [CHAT] minercraftstyle has just earned the achievement [Taking Inventory]
-[19:57:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
-[19:57:56] [Server thread/INFO]: Saving and pausing game...
-[19:57:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[19:57:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[19:57:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[19:57:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:57:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:58:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:58:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[19:58:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:58:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:58:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
-[19:58:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:58:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:58:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:58:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:58:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[19:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[19:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:59:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:59:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[19:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
-[19:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.say
-[19:59:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[19:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
-[19:59:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:59:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
-[19:59:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
-[19:59:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
-[19:59:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
-[19:59:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.pig.step
-[19:59:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
-[19:59:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[19:59:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[19:59:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
-[19:59:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[19:59:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[19:59:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[19:59:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[19:59:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[19:59:28] [Server thread/INFO]: minercraftstyle fell out of the world
-[19:59:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt
-[19:59:28] [Client thread/INFO]: [CHAT] minercraftstyle fell out of the world
-[19:59:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[19:59:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[19:59:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
-[19:59:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[19:59:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[19:59:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
-[20:00:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[20:00:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
-[20:00:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
-[20:00:56] [Server thread/INFO]: Saving and pausing game...
-[20:00:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[20:00:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[20:00:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[20:00:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:00:57] [Server thread/INFO]: Stopping server
-[20:00:57] [Server thread/INFO]: Saving players
-[20:00:57] [Server thread/INFO]: Saving worlds
-[20:00:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[20:00:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[20:00:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[20:01:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[20:01:06] [Client thread/INFO]: Stopping!
+[20:58:08] [main/INFO]: Logging in with username & password
+[20:58:17] [main/ERROR]: Can't find the resource index file: C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}\indexes\{ASSET_INDEX}.json
+[20:58:17] [main/INFO]: Setting user: minercraftstyle
+[20:58:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:58:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[20:58:26] [Sound Library Loader/INFO]: Sound engine started
+[20:58:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:58:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:58:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[20:58:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:58:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:58:28] [Sound Library Loader/INFO]: Sound engine started
+[20:58:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[20:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[20:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[20:58:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:58:57] [Server thread/INFO]: Generating keypair
+[20:58:57] [Server thread/INFO]: Preparing start region for level 0
+[20:58:58] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:58:59] [Server thread/INFO]: minercraftstyle[local:E:0277df5a] logged in with entity id 177 at (330.69999998807907, 4.0, 1576.3773986409933)
+[20:58:59] [Server thread/INFO]: minercraftstyle joined the game
+[20:59:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[20:59:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[20:59:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[20:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[20:59:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[20:59:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[20:59:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[21:00:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[21:00:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[21:00:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[21:00:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[21:00:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[21:00:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[21:00:51] [Server thread/INFO]: Saving and pausing game...
+[21:00:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:00:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:00:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:00:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[21:00:52] [Server thread/INFO]: Stopping server
+[21:00:52] [Server thread/INFO]: Saving players
+[21:00:52] [Server thread/INFO]: Saving worlds
+[21:00:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:00:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:00:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:01:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[21:01:19] [Client thread/INFO]: Stopping!
