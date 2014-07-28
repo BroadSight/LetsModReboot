@@ -5,3 +5,33 @@
 [17:03:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [17:03:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [17:03:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:50:21] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[19:50:22] [main/INFO] [GradleStart]: Extra: []
+[19:50:22] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}
+[19:50:23] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, {ASSET_INDEX}, --assetsDir, C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}, --version, 1.7.10]
+[19:50:23] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:50:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:50:23] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:52:42] [main/INFO] [GradleStart]: username: joshuab2pet158@gmail.com
+[19:52:42] [main/INFO] [GradleStart]: Extra: []
+[19:52:42] [main/INFO] [GradleStart]: Password found, attempting login
+[19:52:43] [main/ERROR] [GradleStart]: -- Login failed!  Invalid credentials. Invalid username or password.
+[19:53:23] [main/INFO] [GradleStart]: username: joshuab2pet158@gmail.com
+[19:53:23] [main/INFO] [GradleStart]: Extra: []
+[19:53:23] [main/INFO] [GradleStart]: Password found, attempting login
+[19:53:24] [main/INFO] [GradleStart]: Login Succesful!
+[19:53:24] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}
+[19:53:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, minercraftstyle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, {ASSET_INDEX}, --uuid, 6f9c8f9042484f73888b98017abb47ce, --assetsDir, C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}, --version, 1.7.10]
+[19:53:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:53:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:53:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:56:49] [main/INFO] [GradleStart]: username: joshuab2pet158@gmail.com
+[19:56:49] [main/INFO] [GradleStart]: Extra: []
+[19:56:49] [main/INFO] [GradleStart]: Password found, attempting login
+[19:56:50] [main/INFO] [GradleStart]: Login Succesful!
+[19:56:50] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}
+[19:56:52] [main/INFO] [GradleStart]:   skins/93/93fadc6215a87dd165fe63237cd1925a47e281aa6bf5fe7404e8d83619a169: REMOVED
+[19:56:52] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, minercraftstyle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, {ASSET_INDEX}, --uuid, 6f9c8f9042484f73888b98017abb47ce, --assetsDir, C:\Users\Joshua\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}, --version, 1.7.10]
+[19:56:52] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:56:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:56:52] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
