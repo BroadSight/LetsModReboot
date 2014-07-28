@@ -1,5 +1,6 @@
 package com.minercraftstyle.letsmodreboot.block;
 
+import com.minercraftstyle.letsmodreboot.creativetab.CreativeTabLMRB;
 import com.minercraftstyle.letsmodreboot.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
@@ -13,11 +14,13 @@ public class BlockLMRB extends Block
     public BlockLMRB(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabLMRB.LMRB_TAB);
     }
 
     public BlockLMRB()
     {
         this(Material.rock);
+        this.setCreativeTab(CreativeTabLMRB.LMRB_TAB);
     }
 
     @Override
