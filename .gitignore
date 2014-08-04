@@ -1,0 +1,18 @@
+## gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
+
+## forge gradle
+/run
+
+## eclipse
+/eclipse
+
+## intellij
+/out
+/*.iml
+/*.ipr
+/*.iws
